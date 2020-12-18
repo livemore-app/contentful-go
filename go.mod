@@ -1,6 +1,6 @@
-module github.com/contentful-labs/contentful-go
+module github.com/livemore-app/contentful-go
 
-go 1.12
+go 1.15
 
 require (
 	github.com/davecgh/go-spew v1.1.0
